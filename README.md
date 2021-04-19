@@ -1,4 +1,5 @@
 ## MyOLS Project: GyaNamuna: Connecting Rural Students to Quality Education
+Link: https://prakritikarki.github.io/MyOLS/
 ### Vision Statement: We are  working with teachers,youths of the village and interested people in our friends circle for now to teach primary level students of Bhairabnath Primary School, Pyuthan, Nepal virtually about practical science using frugal technique. 
 #### We teach our little kids to extract DNA
 #### We teach our little kids to create mini robots
